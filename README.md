@@ -211,10 +211,6 @@ if m.status == GRB.OPTIMAL:
 
 This project is developed for educational and research purposes. The Gurobi optimizer requires appropriate licensing for commercial use. Please ensure compliance with Gurobi's licensing terms when using this code.
 
-## Contact Information
-
-For questions about the implementation, optimization model, or business applications, please refer to the project documentation or create an issue in the repository.
-
 ---
 
 **Note**: This optimization model demonstrates practical applications of operations research in business decision-making, combining mathematical modeling with real-world constraints to deliver actionable insights for strategic planning.
